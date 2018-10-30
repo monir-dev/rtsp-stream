@@ -1,0 +1,13 @@
+Requirement:
+	FFMGEG
+
+instruction:
+	git clone
+	npm install
+	node app.js
+
+Need RAD:
+---------
+https://www.npmjs.com/package/node-rtsp-stream
+https://github.com/phoboslab/jsmpeg
+https://www.npmjs.com/package/node-onvif
