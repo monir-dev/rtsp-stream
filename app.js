@@ -2,12 +2,12 @@
 Stream = require('node-rtsp-stream');
 stream = new Stream({
     name: 'name',
-    streamUrl: 'rtsp://admin:1qaz2wsx@172.18.77.53/Streaming/Channels/101/',
+    streamUrl: 'rtsp://url.com/ss',
     wsPort: 9999
 });
 stream = new Stream({
     name: 'name',
-    streamUrl: 'rtsp://admin:1qaz2wsx@172.18.77.53/Streaming/Channels/101/',
+    streamUrl: 'rtsp://url.com/ss',
     wsPort: 9990
 });
 // rtsp://admin:1qaz2wsx@172.18.77.53/Streaming/Channels/101/
